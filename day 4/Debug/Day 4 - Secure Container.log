@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Studia\Advent of code\Day 4 - Secure Container\main.cpp(8,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Studia\Advent of code\Day 4 - Secure Container\main.cpp(20,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Studia\Advent of code\Day 4 - Secure Container\main.cpp(35,20): warning C4018:  '<': signed/unsigned mismatch
+  Day 4 - Secure Container.vcxproj -> C:\Studia\Advent of code\Day 4 - Secure Container\Debug\Day 4 - Secure Container.exe
