@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Studia\Advent of code\Day 1 - The Tyranny of the Rocket Equation\main.cpp(26,9): warning C4244:  'return': conversion from '__int64' to 'int', possible loss of data
+  Day 1 - The Tyranny of the Rocket Equation.vcxproj -> C:\Studia\Advent of code\Day 1 - The Tyranny of the Rocket Equation\Debug\Day 1 - The Tyranny of the Rocket Equation.exe
